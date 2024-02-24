@@ -15,4 +15,4 @@ My First GItHub Repo &amp; GitHub Pages Site
 
 ![alt text](IMG_3331.JPG)
 
-[The best art supplies in 2023, from sketchbooks to pastels]([https://www.example.com](https://www.businessinsider.com/guides/hobbies-crafts/best-art-supplies)https://www.businessinsider.com/guides/hobbies-crafts/best-art-supplies)
+[The best art supplies in 2023, from sketchbooks to pastels](https://www.businessinsider.com/guides/hobbies-crafts/best-art-supplies?utm_source=copy-link&utm_medium=referral&utm_content=topbar)
