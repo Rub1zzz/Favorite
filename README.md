@@ -8,9 +8,9 @@ My First GItHub Repo &amp; GitHub Pages Site
 >***Remember the art supplies doesn't make you a better artist, practice is key!***
 
 <ol>
-  <li>Faber-Castell Pitt Graphite Matt Pencil at maybe where you usually by this </li>
-  <li>Prismacolor Pencils at maybe where you usually by this</li>
-  <li>Winsor & Newton Watercolors at maybe where you usually by this</li>
+  <li>Faber-Castell Pitt Graphite Matt Pencil - purchase this at Amazon, Hobby Lobby, Joann, Micheals, etc. </li>
+  <li>Prismacolor Pencils - purchase this at Amazon, Hobby Lobby, Joann, Micheals, etc.</li>
+  <li>Winsor & Newton Watercolors - purchase this at Amazon, Hobby Lobby, Joann, Micheals, etc. </li>
 </ol>
 
 Below the image I've added a link which reccomends more amazing art supplies!
