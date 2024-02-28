@@ -8,9 +8,9 @@ My First GItHub Repo &amp; GitHub Pages Site
 >***Remember the art supplies doesn't make you a better artist, practice is key!***
 
 <ol>
-  <li>Faber-Castell Pitt Graphite Matt Pencil</li>
-  <li>Prismacolor Pencils</li>
-  <li>Winsor & Newton Watercolors</li>
+  <li>Faber-Castell Pitt Graphite Matt Pencil at maybe where you usually by this </li>
+  <li>Prismacolor Pencils at maybe where you usually by this</li>
+  <li>Winsor & Newton Watercolors at maybe where you usually by this</li>
 </ol>
 
 Below the image I've added a link which reccomends more amazing art supplies!
