@@ -3,7 +3,7 @@ My First GItHub Repo &amp; GitHub Pages Site
 
 ## My Favorite Art Supplies
 
-##### I would consider myself to be a traditional artist, which is someone who woks with physical mediums rather than digital. Through my years of practicing I've come across a lot of great and really bad art supplies. I'm here to reccomend 3 of my umtilmate favorites and hopefully they'll become some of your favorites as well.
+##### I would consider myself to be a traditional artist, which is someone who works with physical mediums rather than digital. Through my years of practicing I've come across a lot of great and really bad art supplies. I'm here to recommend 3 of my umtilmate favorites and hopefully they'll become some of your favorites as well.
 
 >***Remember the art supplies doesn't make you a better artist, practice is key!***
 
