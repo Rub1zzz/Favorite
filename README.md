@@ -13,6 +13,8 @@ My First GItHub Repo &amp; GitHub Pages Site
   <li>Winsor & Newton Watercolors</li>
 </ol>
 
+Below the image I've added a link which reccomends more amazing art supplies!
+
 ![alt text](IMG_3331.JPG)
 
 [The best art supplies in 2023, from sketchbooks to pastels](https://www.businessinsider.com/guides/hobbies-crafts/best-art-supplies?utm_source=copy-link&utm_medium=referral&utm_content=topbar)
